@@ -1,20 +1,18 @@
-# Kütüphaneler
-- react-redux
-- @reduxjs/toolkit
-- react-icons
-- sass
-- npm i --save react-select
-- 
-# api isteği için rapid api .com
+# Toolkit Thunk Çeviri Projesi
+
+- iki dil arasında çeviri yapan bir proje tasarladım.
+
+- diller arasında değiş butonu ile değişim yapılabilir.
+
+- 111 dil seçeneği ile istediğiniz cümleyi çevirebilirsiniz. 
 
 
+# State yönetiminde; Toolkit
 
+# Api istekleri(RapidApi); Axios
 
-# * not : 
-- thunk aksiyonu nasıl oluşturuyoruz
-createAsyncThunk("",()=>{})  "" action , ()=>{} payload fonksiyonu
-- options ile axios isteği atarken get yerine request kullanıyoruz options içinde url var.
-- react select kütüphanesi select arama özelliği ile aratma özelliği ekledik
-- useMemo : bir işlemi her render sırasında defalarca gereksiz yere yapmak yerine  bu hesaplamayı yapım react bizim bilgisayarın hafızasında tutuyordu. ben zaten bu işi yapmıştım hafızamda ki veririyi getiriyor
-- button ve yükleniyor animasyonlu olmasi için
-* uiverse kullanıldı
+# Stillendirmede; SCSS
+
+# kütüphaneler; react-select , react-icons
+
+<img src="./public/gorselTranslate.gif"/>
