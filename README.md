@@ -7,12 +7,12 @@
 - 111 dil seçeneği ile istediğiniz cümleyi çevirebilirsiniz. 
 
 
-# State yönetiminde; Toolkit
+* State yönetiminde; Toolkit
 
-# Api istekleri(RapidApi); Axios
+* Api istekleri(RapidApi); Axios
 
-# Stillendirmede; SCSS
+* Stillendirmede; SCSS
 
-# kütüphaneler; react-select , react-icons
+* kütüphaneler; react-select , react-icons
 
 <img src="./public/gorselTranslate.gif"/>
